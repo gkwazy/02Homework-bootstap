@@ -1,0 +1,17 @@
+body{
+background-image: url("images/blue.png") !important;
+}
+.color{
+    background-color:white !important;
+}
+h3{
+    color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
+}
+.overImage{
+    position: relative;
+    bottom:100px;
+    left:5px;
+    
+}
